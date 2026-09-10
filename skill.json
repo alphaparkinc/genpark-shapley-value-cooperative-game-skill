@@ -1,0 +1,14 @@
+{
+  "name": "genpark-shapley-value-cooperative-game-skill",
+  "version": "1.0.0",
+  "description": "Shapley value cooperative game theory engine computing axiomatic fair profit allocation across collaborating agents.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "shapley-value",
+    "cooperative-games",
+    "game-theory",
+    "fair-division",
+    "coalition"
+  ]
+}
